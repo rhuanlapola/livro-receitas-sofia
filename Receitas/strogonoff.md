@@ -1,4 +1,4 @@
-<h2>Strogonoff de Frango</h2>
+### Strogonoff de Frango :chicken: :woman_cook:
 
 <h4>Ingredientes</h4>
 
